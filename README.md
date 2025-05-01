@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sannskruti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sannskruti/Leetcode/tree/master/0169-majority-element) |
+| [2058-concatenation-of-array](https://github.com/sannskruti/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/sannskruti/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
