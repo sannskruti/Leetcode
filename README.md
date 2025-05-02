@@ -11,12 +11,14 @@
 | [0088-merge-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sannskruti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sannskruti/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sannskruti/Leetcode/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/sannskruti/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sannskruti/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sannskruti/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sannskruti/Leetcode/tree/master/0217-contains-duplicate) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sannskruti/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
@@ -56,6 +58,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sannskruti/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sannskruti/Leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
