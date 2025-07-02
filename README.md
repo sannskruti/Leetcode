@@ -54,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/sannskruti/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sannskruti/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3617-find-the-original-typed-string-i](https://github.com/sannskruti/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Simulation
 |  |
 | ------- |
