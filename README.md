@@ -154,6 +154,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sannskruti/Leetcode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sannskruti/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
@@ -163,4 +164,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sannskruti/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/sannskruti/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
