@@ -52,6 +52,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sannskruti/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sannskruti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sannskruti/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sannskruti/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sannskruti/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sannskruti/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sannskruti/Leetcode/tree/master/0242-valid-anagram) |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sannskruti/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sannskruti/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
