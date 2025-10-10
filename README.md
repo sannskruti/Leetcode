@@ -165,4 +165,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sannskruti/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/sannskruti/Leetcode/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sannskruti/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sannskruti/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
