@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sannskruti/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sannskruti/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sannskruti/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sannskruti/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sannskruti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sannskruti/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -32,6 +33,7 @@
 | [0001-two-sum](https://github.com/sannskruti/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sannskruti/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sannskruti/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sannskruti/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sannskruti/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sannskruti/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sannskruti/Leetcode/tree/master/0217-contains-duplicate) |
@@ -135,6 +137,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sannskruti/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/sannskruti/Leetcode/tree/master/0054-spiral-matrix) |
 ## Trie
 |  |
