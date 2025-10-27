@@ -28,6 +28,7 @@
 | [1395-minimum-time-visiting-all-points](https://github.com/sannskruti/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sannskruti/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2058-concatenation-of-array](https://github.com/sannskruti/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sannskruti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sannskruti/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sannskruti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sannskruti/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sannskruti/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sannskruti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3617-find-the-original-typed-string-i](https://github.com/sannskruti/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Simulation
 |  |
@@ -141,6 +144,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sannskruti/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/sannskruti/Leetcode/tree/master/0054-spiral-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sannskruti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Trie
 |  |
 | ------- |
