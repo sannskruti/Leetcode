@@ -57,6 +57,7 @@
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sannskruti/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sannskruti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sannskruti/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sannskruti/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting Sort
 |  |
 | ------- |
