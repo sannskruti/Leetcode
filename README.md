@@ -48,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/sannskruti/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sannskruti/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/sannskruti/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sannskruti/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sannskruti/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sannskruti/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -76,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/sannskruti/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sannskruti/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/sannskruti/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sannskruti/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sannskruti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3617-find-the-original-typed-string-i](https://github.com/sannskruti/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sannskruti/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sannskruti/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Tree
 |  |
 | ------- |
