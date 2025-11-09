@@ -78,6 +78,7 @@
 | [0020-valid-parentheses](https://github.com/sannskruti/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sannskruti/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sannskruti/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/sannskruti/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sannskruti/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sannskruti/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
