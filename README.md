@@ -45,6 +45,7 @@
 | [0036-valid-sudoku](https://github.com/sannskruti/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sannskruti/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sannskruti/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/sannskruti/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sannskruti/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sannskruti/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sannskruti/Leetcode/tree/master/0242-valid-anagram) |
@@ -198,6 +199,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sannskruti/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sannskruti/Leetcode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sannskruti/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/sannskruti/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -221,6 +223,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sannskruti/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sannskruti/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/sannskruti/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/sannskruti/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sannskruti/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -259,4 +262,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sannskruti/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/sannskruti/Leetcode/tree/master/0739-daily-temperatures) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sannskruti/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
