@@ -65,6 +65,7 @@
 | [0002-add-two-numbers](https://github.com/sannskruti/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sannskruti/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sannskruti/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/sannskruti/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sannskruti/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sannskruti/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sannskruti/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sannskruti/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sannskruti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sannskruti/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
