@@ -31,6 +31,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sannskruti/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sannskruti/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/sannskruti/Leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/sannskruti/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/sannskruti/Leetcode/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sannskruti/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -167,6 +168,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sannskruti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sannskruti/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/sannskruti/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/sannskruti/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
