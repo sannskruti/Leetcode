@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/sannskruti/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sannskruti/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sannskruti/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sannskruti/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sannskruti/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sannskruti/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sannskruti/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sannskruti/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sannskruti/Leetcode/tree/master/0074-search-a-2d-matrix) |
