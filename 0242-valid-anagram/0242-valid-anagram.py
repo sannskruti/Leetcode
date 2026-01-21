@@ -1,58 +1,25 @@
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-
-        s_map={}
-        t_map={}
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
         if len(s)!=len(t):
             return False
-        for i in range (0, len(s)):
-            if  s[i] in s_map:
-                s_map[s[i]]+=1
+        
+        countS={}
+        countT={}
+
+        for char in s :
+            if char not in countS:
+                countS[char]=1
             else:
-                s_map[s[i]]=1
-            if t[i] in t_map:
-                t_map[t[i]]+=1
+                countS[char]+=1
+        for char in t :
+            if char not in countT:
+                countT[char]=1
             else:
-                t_map[t[i]]=1
-        print (s_map)
-        print (t_map)
-        if s_map==t_map:
-            return True
-        else:
-            return False
-     
-           
+                countT[char]+=1
+
+        return countS==countT
 
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-
-        
-        
-
-      
-       
-
 
 
 
