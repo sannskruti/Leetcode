@@ -94,6 +94,7 @@
 | [0038-count-and-say](https://github.com/sannskruti/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sannskruti/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sannskruti/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/sannskruti/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sannskruti/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sannskruti/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
@@ -123,6 +124,7 @@
 | [0042-trapping-rain-water](https://github.com/sannskruti/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sannskruti/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sannskruti/Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sannskruti/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sannskruti/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/sannskruti/Leetcode/tree/master/0567-permutation-in-string) |
