@@ -6,7 +6,7 @@ class Solution:
             heapq.heappush(new,num)
             if len(new) > k:
                 heapq.heappop(new)
-        return heapq.heappop(new)
+        return new[0]
 
 # nums = [3,2,3,1,2,4,5,5,6], k = 4
 
