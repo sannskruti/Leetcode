@@ -32,6 +32,7 @@
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sannskruti/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sannskruti/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sannskruti/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sannskruti/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sannskruti/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/sannskruti/Leetcode/tree/master/0739-daily-temperatures) |
@@ -158,6 +159,7 @@
 | [0242-valid-anagram](https://github.com/sannskruti/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sannskruti/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sannskruti/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0883-car-fleet](https://github.com/sannskruti/Leetcode/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sannskruti/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -187,6 +189,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sannskruti/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sannskruti/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sannskruti/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sannskruti/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/sannskruti/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Bit Manipulation
@@ -210,6 +213,7 @@
 | [0036-valid-sudoku](https://github.com/sannskruti/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/sannskruti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sannskruti/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sannskruti/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sannskruti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Trie
 |  |
@@ -282,6 +286,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sannskruti/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sannskruti/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sannskruti/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sannskruti/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
