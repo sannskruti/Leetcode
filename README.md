@@ -44,6 +44,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sannskruti/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sannskruti/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sannskruti/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1539-kth-missing-positive-number](https://github.com/sannskruti/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2058-concatenation-of-array](https://github.com/sannskruti/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sannskruti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sannskruti/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -197,6 +198,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sannskruti/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sannskruti/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/sannskruti/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1539-kth-missing-positive-number](https://github.com/sannskruti/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
