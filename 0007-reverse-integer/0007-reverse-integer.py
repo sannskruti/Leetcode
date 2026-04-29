@@ -1,10 +1,17 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        sign = -1 if x < 0 else 1
-        rev = int(str(abs(x))[::-1])
-    
-        if rev > 2**31 - 1:
+        xCopy=x
+        x=abs(x)
+        rev=0
+        while (x>0):
+            rem=x%10
+            rev= 10*rev+rem
+            x=x//10
+
+        limit= math.pow(2,31)
+        if rev < -limit or rev>limit:
             return 0
-    
-        return sign * rev
-        
+        if xCopy <0:
+            return -rev
+        else:
+            return rev
