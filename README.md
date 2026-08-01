@@ -37,6 +37,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sannskruti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sannskruti/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sannskruti/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/sannskruti/Leetcode/tree/master/0486-predict-the-winner) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sannskruti/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/sannskruti/Leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sannskruti/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -90,6 +91,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/sannskruti/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/sannskruti/Leetcode/tree/master/0486-predict-the-winner) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sannskruti/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sannskruti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sannskruti/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -198,6 +200,7 @@
 | [0022-generate-parentheses](https://github.com/sannskruti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sannskruti/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sannskruti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/sannskruti/Leetcode/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,6 +315,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sannskruti/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/sannskruti/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sannskruti/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/sannskruti/Leetcode/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -374,4 +378,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sannskruti/Leetcode/tree/master/0200-number-of-islands) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sannskruti/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
