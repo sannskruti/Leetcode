@@ -41,6 +41,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/sannskruti/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/sannskruti/Leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sannskruti/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sannskruti/Leetcode/tree/master/0877-stone-game) |
 | [0883-car-fleet](https://github.com/sannskruti/Leetcode/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/sannskruti/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sannskruti/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -92,6 +93,7 @@
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/sannskruti/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sannskruti/Leetcode/tree/master/0877-stone-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sannskruti/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sannskruti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sannskruti/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -201,6 +203,7 @@
 | [0042-trapping-rain-water](https://github.com/sannskruti/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sannskruti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/sannskruti/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sannskruti/Leetcode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -382,4 +385,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sannskruti/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sannskruti/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
