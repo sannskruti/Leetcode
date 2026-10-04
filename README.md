@@ -382,6 +382,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sannskruti/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sannskruti/Leetcode/tree/master/0200-number-of-islands) |
 ## Game Theory
 |  |
