@@ -37,6 +37,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sannskruti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sannskruti/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sannskruti/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sannskruti/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/sannskruti/Leetcode/tree/master/0486-predict-the-winner) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sannskruti/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/sannskruti/Leetcode/tree/master/0739-daily-temperatures) |
@@ -92,6 +93,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/sannskruti/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/sannskruti/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sannskruti/Leetcode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sannskruti/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/sannskruti/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sannskruti/Leetcode/tree/master/0877-stone-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/sannskruti/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
